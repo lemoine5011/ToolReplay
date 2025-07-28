@@ -5,3 +5,4 @@ description = "Audit AI agent tool-call transcripts: hash-chain sealing, determi
 requires-python = ">=3.10"
 # clarify the control flow
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
